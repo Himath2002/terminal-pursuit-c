@@ -155,7 +155,8 @@ The build enables:
 
 Focused checks cover initialization, playable boundaries, wall turns,
 adjacent diagonal pursuit, target-cell protection, and victory resolution.
-CI runs the same build and checks on both Ubuntu and macOS.
+CI runs the same build and checks on both Ubuntu and macOS, while Dependabot
+reviews GitHub Actions versions monthly.
 
 ## Project structure
 

@@ -16,6 +16,7 @@ Notable changes to Terminal Pursuit are recorded here. The project follows
 - Strict C11 build with warnings treated as errors.
 - Focused movement and outcome checks.
 - Ubuntu and macOS continuous integration.
+- Monthly GitHub Actions dependency review.
 - Project-specific architecture and terminal visuals.
 
 ### Changed
