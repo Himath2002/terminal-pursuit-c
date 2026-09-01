@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/hero.svg" alt="Terminal Pursuit — a turn-based ASCII chase written in C11" width="100%">
+  <img src="docs/hero.svg" alt="Terminal Pursuit - a turn-based ASCII chase written in C11" width="100%">
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ strict boundaries, and predictable low-level behavior.
 - <strong>P</strong> starts in the upper-left playable cell.
 - <strong>~</strong> starts in the opposite corner.
 - <strong>@</strong> is placed randomly away from both actors.
-- A W, A, S, or D command consumes one turn—even against a wall.
+- A W, A, S, or D command consumes one turn-even against a wall.
 - An adjacent pursuer moves directly toward the player.
 - A distant pursuer selects one of eight neighboring directions.
 - The pursuer cannot enter the target cell.

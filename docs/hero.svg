@@ -50,7 +50,7 @@
     <circle cx="28" cy="27" r="7" fill="#FF6B6B"/>
     <circle cx="52" cy="27" r="7" fill="#F5B942"/>
     <circle cx="76" cy="27" r="7" fill="#7EE787"/>
-    <text x="287" y="32" text-anchor="middle" fill="#A8C4BC" font-family="Arial, sans-serif" font-size="12">terminal-pursuit — 8 × 24</text>
+    <text x="287" y="32" text-anchor="middle" fill="#A8C4BC" font-family="Arial, sans-serif" font-size="12">terminal-pursuit - 8 × 24</text>
 
     <g transform="translate(34 86)" font-family="Courier New, monospace" font-size="15" xml:space="preserve">
       <text x="0" y="0" fill="#7EE787">$</text>
